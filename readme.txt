@@ -1,0 +1,1 @@
+Pour ce lab, je me suis inspiré de l’exemple word count sur la documentation d’hadoop.
